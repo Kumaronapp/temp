@@ -1,0 +1,4 @@
+
+https://jenkins.onyxglobal.io/onyx/job/onyx-global/job/da-portal-ui/job/develop/7/console
+
+error building image: error building stage: failed to get files used from context: failed to get fileinfo for /home/jenkins/agent/workspace/onyx-global_da-portal-ui_develop/build: lstat /home/jenkins/agent/workspace/onyx-global_da-portal-ui_develop/build: no such file or directory
